@@ -9,7 +9,7 @@ Generated with Nexus — Claude + Grok collaborative AI builder.
 - `index.html`
 - `src/main.jsx`
 - `src/index.css`
-- `src/App.jsx`
+- `src/components/App.jsx`
 - `DECISIONS.md`
 
 ## Getting Started
